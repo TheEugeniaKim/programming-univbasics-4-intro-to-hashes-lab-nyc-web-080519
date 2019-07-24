@@ -15,9 +15,6 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  hash = {
-    key: "value"
-  };
   return hash 
 end
 
