@@ -23,7 +23,9 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
- if key do  
+ if key 
+   # code here with while loop or something 
+  else 
    
    
    
